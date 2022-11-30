@@ -1,0 +1,13 @@
+:root{
+	--main-background-color: #18181B;
+	--button-blue: #185CDB;
+	--invalid-red: #DD7271;
+ 
+}
+
+body{ 
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;  
+    font-size: 20px;
+    color: white;
+    background-color: var(--main-background-color);
+}
